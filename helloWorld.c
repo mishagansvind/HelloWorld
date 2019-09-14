@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main(int argc, char *argv[]) {
-  printf("Sam Briggs\n");
+  printf("Sam Briggs and Misha Gansvind\n");
   return 0;
 }
